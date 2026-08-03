@@ -175,7 +175,7 @@ learning:    Advanced ML Techniques
 <!-- ============================================================ -->
 ## 📊 GitHub Metrics & Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Catalyst097&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00" alt="GitHub Stats"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catalyst097&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00ff00" alt="Top Languages"/>
@@ -186,7 +186,7 @@ learning:    Advanced ML Techniques
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Catalyst097&bg_color=0D1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/Catalyst097)
 
-</div>
+</div> -->
 
 
 
