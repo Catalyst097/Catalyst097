@@ -6,6 +6,16 @@
 
 ---
 
+## 🎮 Play My Contribution Pac-Man Game! 🎮
+
+**Click the badge below to play an interactive Pac-Man game based on my GitHub contributions!**
+
+[![Play Pac-Man Game](https://img.shields.io/badge/🎮%20PLAY%20PAC%20MAN%20GAME-Click%20Here-yellow?style=for-the-badge&logo=github)](https://catalyst097.github.io/Catalyst097/pacman-game.html)
+
+> Eat all green squares (contributions), avoid the red ghosts, and beat your high score! 👾
+
+---
+
 ## 👩‍🔬 About Me
 - I'm a data scientist who builds and evaluates ML models, performs rigorous EDA, and focuses on reproducible, interpretable results.
 - Interests: Healthcare analytics, predictive modeling, feature engineering, model explainability, and deploying ML pipelines.
@@ -20,10 +30,10 @@
 - Methods: supervised learning, classification, feature engineering, cross-validation, model explainability
 
 ## 🚀 Featured Projects
-- [breast_cancer](https://github.com/Catalyst097/breast_cancer) — Predicts whether a tumor is Malignant or Benign using the UCI Breast Cancer Wisconsin (Diagnostic) dataset. Includes EDA, outlier detection, feature engineering, scaling, and a Logistic Regression baseline (reported test accuracy ~95.6%).
+- [breast_cancer](https://github.com/Catalyst097/breast_cancer) — Predicts whether a tumor is Malignant or Benign using the UCI Breast Cancer Wisconsin (Diagnostic) dataset. Includes EDA, outlie[...]
 - [heart-disease-app](https://github.com/Catalyst097/heart-disease-app) — Heart disease classifier (model and supporting code). Focuses on tabular ML workflows for clinical risk prediction.
-- [plant-diseases-classifier-](https://github.com/Catalyst097/plant-diseases-classifier-) — Transfer learning image classifier for 38 plant disease classes using MobileNetV2 on the PlantVillage dataset. Fine-tuning reaches ~89% validation accuracy and includes training scripts and model artifacts.
-- [titanic-survival-prediction](https://github.com/Catalyst097/titanic-survival-prediction) — ML project using Logistic Regression and Random Forest to predict Titanic survivors; achieved ~82% accuracy after careful data cleaning and feature work.
+- [plant-diseases-classifier-](https://github.com/Catalyst097/plant-diseases-classifier-) — Transfer learning image classifier for 38 plant disease classes using MobileNetV2 on the PlantVillage [...]
+- [titanic-survival-prediction](https://github.com/Catalyst097/titanic-survival-prediction) — ML project using Logistic Regression and Random Forest to predict Titanic survivors; achieved ~82% a[...]
 - [Word-Guessing-Game](https://github.com/Catalyst097/Word-Guessing-Game) — A simple Python command-line word guessing game (guess letters, limited lives) — great small project for beginners.
 
 
