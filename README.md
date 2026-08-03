@@ -62,7 +62,7 @@ experience:  ML Engineering · Data Analysis
 specialties: Supervised Learning · Feature Engineering
              Classification · Model Development
 tools:       Python · Scikit-learn · TensorFlow
-learning:    Advanced ML Techniques · MLOps
+learning:    Advanced ML Techniques
 ```
 
 </td>
@@ -91,9 +91,9 @@ learning:    Advanced ML Techniques · MLOps
 
 ### 🌱 Learning & Exploring
 - 🧠 **Deep Learning** techniques
-- 🚀 **ML Pipeline Deployment**
 - 🔬 **Advanced Feature Engineering**
 - 📉 **Model Evaluation** strategies
+- 🎯 **Model Performance** optimization
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ learning:    Advanced ML Techniques · MLOps
   <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark&animate=true" width="48" height="48" alt="opencv" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark&animate=true" width="48" height="48" alt="tensorflow" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark&animate=true" width="48" height="48" alt="jupyter" />
 </div>
 
 <br/>
@@ -136,15 +136,6 @@ learning:    Advanced ML Techniques · MLOps
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark&animate=true" width="48" height="48" alt="tensorflow" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark&animate=true" width="48" height="48" alt="sklearn" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark&animate=true" width="48" height="48" alt="opencv" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>☁️ Cloud · MLOps</b></td>
-<td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark&animate=true" width="48" height="48" alt="postgres" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark&animate=true" width="48" height="48" alt="fastapi" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark&animate=true" width="48" height="48" alt="flask" />
 </td>
 </tr>
 </table>
