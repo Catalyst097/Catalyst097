@@ -8,7 +8,7 @@
 #### Data Scientist · AI/ML Engineer · Open Source Developer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00ff00&center=true&vCenter=true&width=750&height=50&lines=Data+Scientist+%7C+ML+Engineer;Healthcare+Analytics+Expert;Model+Explainability+Focus" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00ff00&center=true&vCenter=true&width=750&height=50&lines=Data+Scientist+%7C+ML+Engineer;Passionate+About+Learning;Building+ML+Models" alt="Typing SVG" />
 </a>
 
 </div>
@@ -19,7 +19,6 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasharma982@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Catalyst097)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Catalyst097&label=Profile%20Views&color=00ff00&style=for-the-badge)
@@ -34,7 +33,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-### 🚀 _"I build interpretable ML models and focus on healthcare analytics, turning data into actionable insights."_
+### 🚀 _"Passionate about building machine learning models and exploring data-driven solutions."_
 
 </div>
 
@@ -44,11 +43,11 @@
 
 ## 👋 About Me
 
-I'm **Amit Sharma** — a **Data Scientist** passionate about building robust, interpretable machine learning models with a focus on **healthcare analytics**, **predictive modeling**, and **model explainability**.
+I'm **Amit Sharma** — a **Data Scientist** and **AI/ML Engineer** passionate about building robust machine learning models and solving real-world problems with data.
 
-With expertise in supervised learning, feature engineering, and rigorous experimental design, I create production-ready ML solutions that drive real-world impact. I'm committed to reproducible research and sharing knowledge through open-source projects.
+I specialize in **supervised learning, feature engineering, and model development**. My focus is on creating practical, scalable ML solutions that deliver value. I'm continuously learning new techniques and best practices in the field.
 
-**Currently exploring:** Advanced model interpretability techniques (SHAP, Integrated Gradients), MLOps patterns, and deploying ML pipelines in production.
+**Currently exploring:** Advanced machine learning techniques, model optimization, and building end-to-end ML pipelines.
 
 </td>
 <td width="40%" valign="top">
@@ -57,14 +56,13 @@ With expertise in supervised learning, feature engineering, and rigorous experim
 
 ```yaml
 name:        Amit Sharma
-role:        Data Scientist
-focus:       Healthcare Analytics · Predictive Modeling
-experience:  ML Engineering · Data Science
-specialties: Model Explainability · Feature Engineering
-             Classification · Cross-validation
-tools:       Python · scikit-learn · PyTorch · TensorFlow
-clouds:      Cloud-ready ML solutions
-learning:    Advanced interpretability · MLOps
+role:        Data Scientist & ML Engineer
+focus:       Machine Learning · Data Science
+experience:  ML Engineering · Data Analysis
+specialties: Supervised Learning · Feature Engineering
+             Classification · Model Development
+tools:       Python · Scikit-learn · TensorFlow
+learning:    Advanced ML Techniques · MLOps
 ```
 
 </td>
@@ -83,19 +81,19 @@ learning:    Advanced interpretability · MLOps
 <td width="50%" valign="top">
 
 ### 🛠️ Building
-- 🩺 **Healthcare ML Models** for disease prediction
-- 📊 **Breast Cancer Classifier** (Wisconsin Dataset)
-- 💗 **Heart Disease Prediction** pipelines
-- 🌱 **Plant Disease Detection** using transfer learning
+- 📊 **ML Classification Models** 
+- 💻 **Data Analysis Projects**
+- 🔧 **Model Optimization** pipelines
+- 📈 **End-to-End ML Solutions**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 Learning & Exploring
-- 🔬 **Model Interpretability** (SHAP, Integrated Gradients)
-- 🚀 **MLOps Patterns** for reproducible training
-- 🔌 **ML Pipeline Deployment** best practices
-- 📈 **Advanced Feature Engineering** techniques
+- 🧠 **Deep Learning** techniques
+- 🚀 **ML Pipeline Deployment**
+- 🔬 **Advanced Feature Engineering**
+- 📉 **Model Evaluation** strategies
 
 </td>
 </tr>
@@ -110,11 +108,11 @@ learning:    Advanced interpretability · MLOps
 
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark&animate=true" width="48" height="48" alt="mysql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark&animate=true" width="48" height="48" alt="opencv" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark&animate=true" width="48" height="48" alt="tensorflow" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark&animate=true" width="48" height="48" alt="postgresql" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark&animate=true" width="48" height="48" alt="bash" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&animate=true" width="48" height="48" alt="linux" />
 </div>
 
 <br/>
@@ -124,10 +122,10 @@ learning:    Advanced interpretability · MLOps
 <td align="right" width="170"><b>🧠 Languages & Core</b></td>
 <td>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark&animate=true" width="48" height="48" alt="bash" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark&animate=true" width="48" height="48" alt="anaconda" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark&animate=true" width="48" height="48" alt="mysql" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&animate=true" width="48" height="48" alt="linux" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark&animate=true" width="48" height="48" alt="bash" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark&animate=true" width="48" height="48" alt="jupyter" />
 </td>
 </tr>
@@ -158,9 +156,10 @@ learning:    Advanced interpretability · MLOps
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
 
@@ -173,8 +172,8 @@ learning:    Advanced interpretability · MLOps
 
 <div align="center">
 
-[![Breast Cancer Classifier](https://github-readme-stats.vercel.app/api/pin/?username=Catalyst097&repo=breast_cancer&theme=react&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00)](https://github.com/Catalyst097/breast_cancer)
 [![Heart Disease App](https://github-readme-stats.vercel.app/api/pin/?username=Catalyst097&repo=heart-disease-app&theme=react&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00)](https://github.com/Catalyst097/heart-disease-app)
+[![CodeFlow](https://github-readme-stats.vercel.app/api/pin/?username=Catalyst097&repo=codeflow&theme=react&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00)](https://github.com/Catalyst097/codeflow)
 
 </div>
 
@@ -223,7 +222,6 @@ learning:    Advanced interpretability · MLOps
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasharma982@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Catalyst097)
 
 </div>
