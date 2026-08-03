@@ -190,7 +190,7 @@ learning:    Advanced ML Techniques
 
 
 
-<div align="center">
+<!-- <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Catalyst097/Catalyst097/output/github-snake-dark.svg" />
@@ -198,7 +198,7 @@ learning:    Advanced ML Techniques
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Catalyst097/Catalyst097/output/github-snake.svg" />
 </picture>
 
-</div>
+</div> -->
 
 ---
 
