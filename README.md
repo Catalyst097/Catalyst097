@@ -173,7 +173,6 @@ learning:    Advanced ML Techniques
 <!-- ============================================================ -->
 <!--                  GITHUB METRICS & STATS                      -->
 <!-- ============================================================ -->
-## 📊 GitHub Metrics & Stats
 
 <!-- <div align="center">
 
