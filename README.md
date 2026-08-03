@@ -20,11 +20,11 @@
 - Methods: supervised learning, classification, feature engineering, cross-validation, model explainability
 
 ## 🚀 Featured Projects
-- [breast_cancer](https://github.com/Catalyst097/breast_cancer) — end-to-end classification pipeline and analysis
-- [mlops_playground](https://github.com/Catalyst097/mlops_playground) — reproducible training pipelines with MLflow & Docker
-- [image_classification](https://github.com/Catalyst097/image_classification) — CNN experiments and transfer learning with PyTorch/TensorFlow
-- [time_series_forecasting](https://github.com/Catalyst097/time_series_forecasting) — experiment notebooks for forecasting models (ARIMA, LSTM)
-- [nlp_text_classification](https://github.com/Catalyst097/nlp_text_classification) — text preprocessing, embeddings, and transformer experiments
+- [breast_cancer](https://github.com/Catalyst097/breast_cancer) — Predicts whether a tumor is Malignant or Benign using the UCI Breast Cancer Wisconsin (Diagnostic) dataset. Includes EDA, outlier detection, feature engineering, scaling, and a Logistic Regression baseline (reported test accuracy ~95.6%).
+- [heart-disease-app](https://github.com/Catalyst097/heart-disease-app) — Heart disease classifier (model and supporting code). Focuses on tabular ML workflows for clinical risk prediction.
+- [plant-diseases-classifier-](https://github.com/Catalyst097/plant-diseases-classifier-) — Transfer learning image classifier for 38 plant disease classes using MobileNetV2 on the PlantVillage dataset. Fine-tuning reaches ~89% validation accuracy and includes training scripts and model artifacts.
+- [titanic-survival-prediction](https://github.com/Catalyst097/titanic-survival-prediction) — ML project using Logistic Regression and Random Forest to predict Titanic survivors; achieved ~82% accuracy after careful data cleaning and feature work.
+- [Word-Guessing-Game](https://github.com/Catalyst097/Word-Guessing-Game) — A simple Python command-line word guessing game (guess letters, limited lives) — great small project for beginners.
 
 
 ## ✨ Tech & Tools (visual)
