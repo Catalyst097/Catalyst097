@@ -6,6 +6,12 @@
 
 ---
 
+## 🐍 Watch My Contributions Get Eaten! 🐍
+
+![Snake eating contributions](https://raw.githubusercontent.com/Catalyst097/Catalyst097/main/snake-game.svg)
+
+---
+
 ## 👩‍🔬 About Me
 - I'm a data scientist who builds and evaluates ML models, performs rigorous EDA, and focuses on reproducible, interpretable results.
 - Interests: Healthcare analytics, predictive modeling, feature engineering, model explainability, and deploying ML pipelines.
