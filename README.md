@@ -5,7 +5,7 @@
 
 # Hi 👋 I'm Amit Sharma
 
-#### Data Scientist · AI/ML Engineer · Open Source Developer
+#### Data Scientist · AI/ML Engineer 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00ff00&center=true&vCenter=true&width=750&height=50&lines=Data+Scientist+%7C+ML+Engineer;Passionate+About+Learning;Building+ML+Models" alt="Typing SVG" />
@@ -188,10 +188,7 @@ learning:    Advanced ML Techniques
 
 </div>
 
-<!-- ============================================================ -->
-<!--                     CONTRIBUTION SNAKE                       -->
-<!-- ============================================================ -->
-### 🐍 Watch My Contributions Get Eaten
+
 
 <div align="center">
 
