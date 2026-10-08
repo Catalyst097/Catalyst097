@@ -164,7 +164,7 @@ learning:    Advanced ML Techniques
 <div align="center">
 
 [![Heart Disease App](https://github-readme-stats.vercel.app/api/pin/?username=Catalyst097&repo=heart-disease-app&theme=react&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00)](https://github.com/Catalyst097/heart-disease-app)
-[![CodeFlow](https://github-readme-stats.vercel.app/api/pin/?username=Catalyst097&repo=codeflow&theme=react&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00)](https://github.com/Catalyst097/codeflow)
+[![MySQL Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Catalyst097&repo=MySQL-Data-Analytics-Portfolio&theme=react&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00)](https://github.com/Catalyst097/MySQL-Data-Analytics-Portfolio)
 
 </div>
 
