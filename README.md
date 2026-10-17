@@ -8,7 +8,7 @@
 #### Data Scientist · AI/ML Engineer 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00ff00&center=true&vCenter=true&width=750&height=50&lines=Data+Scientist+%7C+ML+Engineer;Passionate+About+Learning;Building+ML+Models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00ff00&center=true&vCenter=true&width=750&height=50&lines=Data+Scientist+%7C+ML+Engineer;P[...]
 </a>
 
 </div>
@@ -21,7 +21,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasharma982@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Catalyst097)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Catalyst097&label=Profile%20Views&color=00ff00&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/Catalyst097?label=Followers&style=for-the-badge&color=00ff00&logo=github)](https://github.com/Catalyst097?tab=followers)
 
 </div>
@@ -45,7 +44,7 @@
 
 I'm **Amit Sharma** — a **Data Scientist** and **AI/ML Engineer** passionate about building robust machine learning models and solving real-world problems with data.
 
-I specialize in **supervised learning, feature engineering, and model development**. My focus is on creating practical, scalable ML solutions that deliver value. I'm continuously learning new techniques and best practices in the field.
+I specialize in **supervised learning, feature engineering, and model development**. My focus is on creating practical, scalable ML solutions that deliver value. I'm continuously learning new technologies and improving my skills.
 
 **Currently exploring:** Advanced machine learning techniques, model optimization, and building end-to-end ML pipelines.
 
@@ -163,8 +162,8 @@ learning:    Advanced ML Techniques
 
 <div align="center">
 
-[![Heart Disease App](https://github-readme-stats.vercel.app/api/pin/?username=Catalyst097&repo=heart-disease-app&theme=react&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00)](https://github.com/Catalyst097/heart-disease-app)
-[![MySQL Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Catalyst097&repo=MySQL-Data-Analytics-Portfolio&theme=react&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00)](https://github.com/Catalyst097/MySQL-Data-Analytics-Portfolio)
+[![Heart Disease App](https://github-readme-stats.vercel.app/api/pin/?username=Catalyst097&repo=heart-disease-app&theme=react&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00&text_color=ffffff)](https://github.com/Catalyst097/heart-disease-app)
+[![MySQL Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Catalyst097&repo=MySQL-Data-Analytics-Portfolio&theme=react&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00&text_color=ffffff)](https://github.com/Catalyst097/MySQL-Data-Analytics-Portfolio)
 
 </div>
 
@@ -176,8 +175,8 @@ learning:    Advanced ML Techniques
 
 <!-- <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Catalyst097&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00" alt="GitHub Stats"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catalyst097&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00ff00" alt="Top Languages"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Catalyst097&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00ff00&title_color=00ff00&text_color=ffffff" alt="GitHub stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catalyst097&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00ff00" alt="Top Languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Catalyst097&theme=react&hide_border=true&background=0D1117&ring=00ff00&fire=FFD700&currStreakLabel=00ff00)](https://git.io/streak-stats)
 
@@ -218,11 +217,11 @@ learning:    Advanced ML Techniques
 <!-- ============================================================ -->
 <!--                            QUOTE                             -->
 <!-- ============================================================ -->
-<div align="center">
+<!-- <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
 
-</div>
+</div> -->
 
 <!-- ============================================================ -->
 <!--                           FOOTER                             -->
